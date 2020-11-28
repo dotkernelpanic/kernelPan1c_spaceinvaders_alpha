@@ -1,7 +1,6 @@
-# kernelPan1c_spaceinvaders_alpha
-# Created by Yaroslav 'kernelPan1c' Yevdokimov. TG: @kerne1_pan1c
 # Space Invaders 2D Android Game, version 1.0 Alpha
 
+Created by Yaroslav 'kernelPan1c' Yevdokimov. TG: @kerne1_pan1c
 The first version of the Space Invaders 2D Android Game
 
 
