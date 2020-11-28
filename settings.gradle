@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MOS_LW4_GAME_YY_KNT127"

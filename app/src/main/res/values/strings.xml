@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Space Invaders</string>
+    <string name="play_text">PLAY</string>
+    <string name="high_score_text">HIGH SCORE: </string>
+    <string name="title_text">SPACE INVADERS</string>
+
+    <string name="author">Made by Yaroslav "kernelPan1c" Yevdokimov</string>
+    <string name="difficult">DIFFICULT: HARDCORE</string>
+</resources>
